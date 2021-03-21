@@ -3,8 +3,8 @@
 A simple snake game with score log and speed selector in java. Using Threads and Java Swing to display the game.
 The aim of this project is to improve my java GUI skills and learn other things.
 
-- Name and Surname: Osman Yasir Ozyilmaz
-- Email: Osmanyasir.ozyilmaz@iaau.edu.kg
+- Name and Surname: Said SANDAL
+- Email: Abdullakhsaid@gmail.com
 - Computer Science Department of Alatoo International University.
 - Final project for Java class.
 
